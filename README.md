@@ -3,9 +3,7 @@
 
 # Fake News Classifier System
 
-Click here for colab file and dataset: [Click Here](https://drive.google.com/drive/folders/1yD6JFx2OVkb8mGeA4I4NYe_EH5A6tmaO?usp=sharing)
-
-Click here for dataset: [Click here](https://drive.google.com/file/d/1DbQ1-LPMRMe1bhSuKG_tIZnRtaIln-NO/view?usp=sharing)
+Click here for colab file and dataset: [Click Here](https://drive.google.com/drive/folders/1xEJyaPQuZSfL0t1t30VOdrttCOgy18FS?usp=sharing)
 
 About the Dataset:
 
